@@ -1,0 +1,14 @@
+input#exampleFormControlInput1 {
+  width: 88%;
+  margin: auto;
+}
+label.form-label {
+  padding: 15px 10px 0px 27px;
+}
+p.errorMsg {
+  margin: auto;
+  display: block;
+  width: 86%;
+  color: red;
+  font-size: smaller;
+}

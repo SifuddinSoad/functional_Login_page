@@ -1,0 +1,15 @@
+.containerS {
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  bottom: 10%;
+}
+
+.singupPara {
+  margin: 0px;
+  padding-top: 7px;
+}
+
+button.btn.btn-outline-success {
+  width: 88%;
+}

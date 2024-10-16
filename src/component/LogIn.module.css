@@ -1,0 +1,12 @@
+.container {
+  background-color: #eeebeb;
+  min-width: 320px;
+  max-width: 400px;
+  width: 30%;
+  height: 85vh;
+  margin: auto;
+  position: relative;
+  top: 8vh;
+  border: 1px solid #2c2c2c;
+  border-radius: 5px;
+}

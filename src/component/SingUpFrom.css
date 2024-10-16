@@ -1,0 +1,44 @@
+.iconButton {
+  font-size: 19px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 19px;
+  top: 14px;
+  text-align: center;
+  border: 1px solid #676767;
+  border-radius: 50%;
+  color: #696363;
+  background-color: #ffffff;
+}
+.iconButton:hover {
+  background-color: #696363;
+  color: #ffffff;
+}
+svg.svgIcon {
+  font-size: 19px;
+  position: absolute;
+  top: 7px;
+  left: 7px;
+}
+.singUoFrom {
+  width: 100%;
+  position: absolute;
+  top: 12%;
+  height: 74vh;
+}
+.userName {
+  width: 88%;
+  margin: auto;
+  font-size: 15px;
+}
+label.fixing {
+  margin-left: 6%;
+  font-size: 15px;
+}
+.containerSing {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  bottom: 7%;
+}
